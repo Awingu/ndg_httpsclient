@@ -162,8 +162,4 @@ setup(
         'Topic :: Software Development :: Libraries :: Python Modules'
     ],
     zip_safe=False,
-    entry_points={
-        'console_scripts': ['ndg_httpclient = ndg.httpsclient.utils:main',
-                            ],
-        }
 )
